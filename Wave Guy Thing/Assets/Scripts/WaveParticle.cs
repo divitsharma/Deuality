@@ -14,10 +14,9 @@ public class WaveParticle : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        //this.transform.position += new Vector3(0.01f, 0, 0);
-        //this.transform.Translate(0.1f, 0, 0);
+        
         this.transform.Translate(0, amplitude*Mathf.Sin(Time.time / factor), 0);
-        //x = sin(t)
-        print(amplitude * Mathf.Sin(Time.time));
+        
+        print("I MADE A CHANGE!");
     }
 }
