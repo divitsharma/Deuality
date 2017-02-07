@@ -1,0 +1,2134 @@
+fileFormatVersion: 2
+guid: 76eb504e671b75f4e851d131b73564ac
+timeCreated: 1485023526
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayStation - International Karate - Fighter_0
+    21300002: PlayStation - International Karate - Fighter_1
+    21300004: PlayStation - International Karate - Fighter_2
+    21300006: PlayStation - International Karate - Fighter_3
+    21300008: PlayStation - International Karate - Fighter_4
+    21300010: PlayStation - International Karate - Fighter_5
+    21300012: PlayStation - International Karate - Fighter_6
+    21300014: PlayStation - International Karate - Fighter_7
+    21300016: PlayStation - International Karate - Fighter_8
+    21300018: PlayStation - International Karate - Fighter_9
+    21300020: PlayStation - International Karate - Fighter_10
+    21300022: PlayStation - International Karate - Fighter_11
+    21300024: PlayStation - International Karate - Fighter_12
+    21300026: PlayStation - International Karate - Fighter_13
+    21300028: PlayStation - International Karate - Fighter_14
+    21300030: PlayStation - International Karate - Fighter_15
+    21300032: PlayStation - International Karate - Fighter_16
+    21300034: PlayStation - International Karate - Fighter_17
+    21300036: PlayStation - International Karate - Fighter_18
+    21300038: PlayStation - International Karate - Fighter_19
+    21300040: PlayStation - International Karate - Fighter_20
+    21300042: PlayStation - International Karate - Fighter_21
+    21300044: PlayStation - International Karate - Fighter_22
+    21300046: PlayStation - International Karate - Fighter_23
+    21300048: PlayStation - International Karate - Fighter_24
+    21300050: PlayStation - International Karate - Fighter_25
+    21300052: PlayStation - International Karate - Fighter_26
+    21300054: PlayStation - International Karate - Fighter_27
+    21300056: PlayStation - International Karate - Fighter_28
+    21300058: PlayStation - International Karate - Fighter_29
+    21300060: PlayStation - International Karate - Fighter_30
+    21300062: PlayStation - International Karate - Fighter_31
+    21300064: PlayStation - International Karate - Fighter_32
+    21300066: PlayStation - International Karate - Fighter_33
+    21300068: PlayStation - International Karate - Fighter_34
+    21300070: PlayStation - International Karate - Fighter_35
+    21300072: PlayStation - International Karate - Fighter_36
+    21300074: PlayStation - International Karate - Fighter_37
+    21300076: PlayStation - International Karate - Fighter_38
+    21300078: PlayStation - International Karate - Fighter_39
+    21300080: PlayStation - International Karate - Fighter_40
+    21300082: PlayStation - International Karate - Fighter_41
+    21300084: PlayStation - International Karate - Fighter_42
+    21300086: PlayStation - International Karate - Fighter_43
+    21300088: PlayStation - International Karate - Fighter_44
+    21300090: PlayStation - International Karate - Fighter_45
+    21300092: PlayStation - International Karate - Fighter_46
+    21300094: PlayStation - International Karate - Fighter_47
+    21300096: PlayStation - International Karate - Fighter_48
+    21300098: PlayStation - International Karate - Fighter_49
+    21300100: PlayStation - International Karate - Fighter_50
+    21300102: PlayStation - International Karate - Fighter_51
+    21300104: PlayStation - International Karate - Fighter_52
+    21300106: PlayStation - International Karate - Fighter_53
+    21300108: PlayStation - International Karate - Fighter_54
+    21300110: PlayStation - International Karate - Fighter_55
+    21300112: PlayStation - International Karate - Fighter_56
+    21300114: PlayStation - International Karate - Fighter_57
+    21300116: PlayStation - International Karate - Fighter_58
+    21300118: PlayStation - International Karate - Fighter_59
+    21300120: PlayStation - International Karate - Fighter_60
+    21300122: PlayStation - International Karate - Fighter_61
+    21300124: PlayStation - International Karate - Fighter_62
+    21300126: PlayStation - International Karate - Fighter_63
+    21300128: PlayStation - International Karate - Fighter_64
+    21300130: PlayStation - International Karate - Fighter_65
+    21300132: PlayStation - International Karate - Fighter_66
+    21300134: PlayStation - International Karate - Fighter_67
+    21300136: PlayStation - International Karate - Fighter_68
+    21300138: PlayStation - International Karate - Fighter_69
+    21300140: PlayStation - International Karate - Fighter_70
+    21300142: PlayStation - International Karate - Fighter_71
+    21300144: PlayStation - International Karate - Fighter_72
+    21300146: PlayStation - International Karate - Fighter_73
+    21300148: PlayStation - International Karate - Fighter_74
+    21300150: PlayStation - International Karate - Fighter_75
+    21300152: PlayStation - International Karate - Fighter_76
+    21300154: PlayStation - International Karate - Fighter_77
+    21300156: PlayStation - International Karate - Fighter_78
+    21300158: PlayStation - International Karate - Fighter_79
+    21300160: PlayStation - International Karate - Fighter_80
+    21300162: PlayStation - International Karate - Fighter_81
+    21300164: PlayStation - International Karate - Fighter_82
+    21300166: PlayStation - International Karate - Fighter_83
+    21300168: PlayStation - International Karate - Fighter_84
+    21300170: PlayStation - International Karate - Fighter_85
+    21300172: PlayStation - International Karate - Fighter_86
+    21300174: PlayStation - International Karate - Fighter_87
+    21300176: PlayStation - International Karate - Fighter_88
+    21300178: PlayStation - International Karate - Fighter_89
+    21300180: PlayStation - International Karate - Fighter_90
+    21300182: PlayStation - International Karate - Fighter_91
+    21300184: PlayStation - International Karate - Fighter_92
+    21300186: PlayStation - International Karate - Fighter_93
+    21300188: PlayStation - International Karate - Fighter_94
+    21300190: PlayStation - International Karate - Fighter_95
+    21300192: PlayStation - International Karate - Fighter_96
+    21300194: PlayStation - International Karate - Fighter_97
+    21300196: PlayStation - International Karate - Fighter_98
+    21300198: PlayStation - International Karate - Fighter_99
+    21300200: PlayStation - International Karate - Fighter_100
+    21300202: PlayStation - International Karate - Fighter_101
+    21300204: PlayStation - International Karate - Fighter_102
+    21300206: PlayStation - International Karate - Fighter_103
+    21300208: PlayStation - International Karate - Fighter_104
+    21300210: PlayStation - International Karate - Fighter_105
+    21300212: PlayStation - International Karate - Fighter_106
+    21300214: PlayStation - International Karate - Fighter_107
+    21300216: PlayStation - International Karate - Fighter_108
+    21300218: PlayStation - International Karate - Fighter_109
+    21300220: PlayStation - International Karate - Fighter_110
+    21300222: PlayStation - International Karate - Fighter_111
+    21300224: PlayStation - International Karate - Fighter_112
+    21300226: PlayStation - International Karate - Fighter_113
+    21300228: PlayStation - International Karate - Fighter_114
+    21300230: PlayStation - International Karate - Fighter_115
+    21300232: PlayStation - International Karate - Fighter_116
+    21300234: PlayStation - International Karate - Fighter_117
+    21300236: PlayStation - International Karate - Fighter_118
+    21300238: PlayStation - International Karate - Fighter_119
+    21300240: PlayStation - International Karate - Fighter_120
+    21300242: PlayStation - International Karate - Fighter_121
+    21300244: PlayStation - International Karate - Fighter_122
+    21300246: PlayStation - International Karate - Fighter_123
+    21300248: PlayStation - International Karate - Fighter_124
+    21300250: PlayStation - International Karate - Fighter_125
+    21300252: PlayStation - International Karate - Fighter_126
+    21300254: PlayStation - International Karate - Fighter_127
+    21300256: PlayStation - International Karate - Fighter_128
+    21300258: PlayStation - International Karate - Fighter_129
+    21300260: PlayStation - International Karate - Fighter_130
+    21300262: PlayStation - International Karate - Fighter_131
+    21300264: PlayStation - International Karate - Fighter_132
+    21300266: PlayStation - International Karate - Fighter_133
+    21300268: PlayStation - International Karate - Fighter_134
+    21300270: PlayStation - International Karate - Fighter_135
+    21300272: PlayStation - International Karate - Fighter_136
+    21300274: PlayStation - International Karate - Fighter_137
+    21300276: PlayStation - International Karate - Fighter_138
+    21300278: PlayStation - International Karate - Fighter_139
+    21300280: PlayStation - International Karate - Fighter_140
+    21300282: PlayStation - International Karate - Fighter_141
+    21300284: PlayStation - International Karate - Fighter_142
+    21300286: PlayStation - International Karate - Fighter_143
+    21300288: PlayStation - International Karate - Fighter_144
+    21300290: PlayStation - International Karate - Fighter_145
+    21300292: PlayStation - International Karate - Fighter_146
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 568
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 568
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 568
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 574
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 568
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 568
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 568
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 572
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 568
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 488
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 488
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 488
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 488
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 488
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 488
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 488
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 488
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 488
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_19
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 488
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 408
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 408
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 423
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 426
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 408
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 408
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 408
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 408
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 408
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 408
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 344
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 352
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 344
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 344
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 344
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 344
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 347
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_37
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 346
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 346
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_39
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 344
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 286
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 297
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 284
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 280
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_44
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 280
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 280
+        width: 69
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_46
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 280
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 280
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 280
+        width: 70
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_49
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 280
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 216
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 216
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 216
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 216
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 216
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 216
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 216
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 216
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 128
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_63
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 128
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 128
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_65
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_66
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 140
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 168
+        width: 70
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_68
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 161
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_69
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 163
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_75
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 76
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_77
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 75
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_78
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 74
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_79
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 95
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_80
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 97
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_81
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 104
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_82
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 105
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_83
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 97
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_84
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 100
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_85
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 98
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_86
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 104
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_87
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 98
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_88
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 93
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_89
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 81
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_90
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 92
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_91
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 74
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_92
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 96
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_93
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 98
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_94
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 97
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_95
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 99
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_96
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 98
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_97
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 95
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_98
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 92
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 84
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_100
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 91
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_101
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 91
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_102
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 92
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_103
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 90
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_104
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 92
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_105
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_106
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 85
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_107
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 91
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_108
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 90
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_109
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 93
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_110
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 76
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_111
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 94
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_112
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 94
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_113
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 93
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_114
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 83
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_115
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 83
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_116
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 73
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_117
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 86
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_118
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_119
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 82
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_120
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 83
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_121
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 82
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_122
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 84
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_123
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_124
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 81
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_125
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 81
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_126
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 84
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_127
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 76
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_128
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 73
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_129
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 76
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_130
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 72
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_131
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 78
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_132
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_133
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 75
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_134
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 75
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_135
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 72
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_136
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 79
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_137
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 77
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_138
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 74
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_139
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 73
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_140
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 77
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_141
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 72
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_142
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 77
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_143
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 72
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_144
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayStation - International Karate - Fighter_146
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 8
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
